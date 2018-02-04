@@ -1,0 +1,15 @@
+{
+	"name": "Assets",
+	"description": "Assets for all your content",
+
+	"author": "Sevag Akelian",
+	"authorEmail": "akelian.sevag@gmail.com",
+	"authorUrl": "",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}

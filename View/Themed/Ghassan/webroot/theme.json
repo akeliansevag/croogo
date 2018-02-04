@@ -1,0 +1,17 @@
+{
+  "name" : "Ghassan",
+  "description" : "Ghassan Main Theme",
+  "screenshot" : "screenshot.png",
+
+  "author" : "Author Name",
+  "authorEmail" : "author@email.com",
+  "authorUrl" : "http://authorswebsite.com",
+
+  "menus" : [
+    "main"
+    ],
+
+  "regions" : [
+    "right"
+    ]
+}
